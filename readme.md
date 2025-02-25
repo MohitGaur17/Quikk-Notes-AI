@@ -3,6 +3,7 @@
 ### 🚀 A Wikipedia-based Notes Generator using NLP  
 Quikk Notes AI is an intelligent summarization tool that fetches Wikipedia content, processes it using **NLP techniques**, and provides **concise, revision-friendly notes**.  
 
+**[For Live Demo Click Here](https://quikk-notes-ai.streamlit.app/)**
 
 ## **✨ Features**
 ✔ Fetches Wikipedia content based on user input  
@@ -34,7 +35,7 @@ Quikk Notes AI is an intelligent summarization tool that fetches Wikipedia conte
 - Multilingual Support
 - Backend: Flask or FastAPI
 - Frontend: HTML, CSS, JS
-- DataBase (at 2nd Stage): SQLite or FireBase
+- DataBase: SQLite or FireBase
 - Highlight key terms and give a conclusion at the end
 - **Question Generation: Use NLP to ask questions from the student for brushing up the learned concepts** -->
 
@@ -62,4 +63,4 @@ streamlit run app.py
 
 ## ✍🏻 Author
 Developed by **[Mohit Gaur](https://github.com/MohitGaur17)**  
-Special Thanks to **[Harshit Soni BOSS](https://github.com/Harshit-Soni78)** and **AI PlaneTech** for their guidance and support.  
+Special Thanks to **[Harshit Soni](https://github.com/Harshit-Soni78)** and **AI PlaneTech** for their guidance and support.  
